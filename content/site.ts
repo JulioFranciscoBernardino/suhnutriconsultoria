@@ -278,7 +278,7 @@ export const siteContent = {
     contact: "Falar com a Suellen",
   },
   seo: {
-    title: "Suh Nutri Consultoria | Segurança dos alimentos",
+    title: "Suh Nutri Consultoria",
     description:
       "Consultoria para serviços de alimentação em segurança dos alimentos, Boas Práticas de Manipulação, qualidade operacional e adequação às exigências sanitárias.",
   },
